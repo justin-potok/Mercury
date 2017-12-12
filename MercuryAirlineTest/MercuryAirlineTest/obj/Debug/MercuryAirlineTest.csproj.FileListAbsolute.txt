@@ -1,0 +1,8 @@
+C:\Projects\Mercury Tests\MercuryAirlineTest\MercuryAirlineTest\bin\Debug\MercuryAirlineTest.dll
+C:\Projects\Mercury Tests\MercuryAirlineTest\MercuryAirlineTest\bin\Debug\MercuryAirlineTest.pdb
+C:\Projects\Mercury Tests\MercuryAirlineTest\MercuryAirlineTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Mercury Tests\MercuryAirlineTest\MercuryAirlineTest\bin\Debug\WebDriver.dll
+C:\Projects\Mercury Tests\MercuryAirlineTest\MercuryAirlineTest\bin\Debug\WebDriver.xml
+C:\Projects\Mercury Tests\MercuryAirlineTest\MercuryAirlineTest\obj\Debug\MercuryAirlineTest.csprojResolveAssemblyReference.cache
+C:\Projects\Mercury Tests\MercuryAirlineTest\MercuryAirlineTest\obj\Debug\MercuryAirlineTest.dll
+C:\Projects\Mercury Tests\MercuryAirlineTest\MercuryAirlineTest\obj\Debug\MercuryAirlineTest.pdb
