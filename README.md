@@ -9,4 +9,6 @@ To ensure the code works correctly, follow the below steps
 
 *Now you can run the code.
 
+If the test passed, you will be able to see "Test Passed" written in the console once the code has finished running.
+
 For any changes to the inputs only change the data in TestInput class. This class allows the remainder of the code to go untouched 
